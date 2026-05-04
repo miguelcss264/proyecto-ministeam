@@ -3,6 +3,5 @@ require_once __DIR__ . '/Usuario.php';
 
 class Admin extends Usuario {
     public function borrarJuego($id) {
-        // lógica en el controlador
     }
 }
